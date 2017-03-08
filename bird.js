@@ -1,4 +1,4 @@
-function Bird() //kinda like a mother fucking constructor
+function Bird()
 {
 
 	this.x=width/2;
